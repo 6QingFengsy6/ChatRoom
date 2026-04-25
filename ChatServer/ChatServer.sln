@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatServer", "ChatServer\ChatServer.vcxproj", "{046E28F3-CF42-4854-9A1E-560864DB52C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046E28F3-CF42-4854-9A1E-560864DB52C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{046E28F3-CF42-4854-9A1E-560864DB52C1}.Debug|Win32.Build.0 = Debug|Win32
+		{046E28F3-CF42-4854-9A1E-560864DB52C1}.Release|Win32.ActiveCfg = Release|Win32
+		{046E28F3-CF42-4854-9A1E-560864DB52C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
